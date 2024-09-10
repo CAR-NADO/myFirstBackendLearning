@@ -2,3 +2,5 @@
 commonjs -> require("express"),  module -> import Express from "express"
 
 # Dev dependency - means a library/package will use only on development not in production stage
+# Multer is use for file uploading configer.
+# cookieParser is use for to "Access" and "Set" cookies from server to user browser
