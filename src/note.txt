@@ -19,4 +19,4 @@ const asyncHandler = (fn) => ()=> {};
 
 
 
-# Video Number 8 - Inprogress (Custom api response and error handling | chai aur backend) || 20:00
+# Video Number 9 - Inprogress (User and video model with hooks and JWT | chai aur backend) 
