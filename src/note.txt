@@ -2,10 +2,15 @@
 commonjs -> require("express"),  module -> import Express from "express"
 
 # Dev dependency - means a library/package will use only on development not in production stage
+# Mongo atlas is a online feature of mongo database (Mongo DB)
 # Multer is use for file uploading configer.
 # cookieParser is use for to "Access" and "Set" cookies from server to user browser
 
-
+# Both syntax are same 
+const asyncHandler = (func) => {
+  () => {};
+};
+const asyncHandler = (fn) => ()=> {};
 
 
 
