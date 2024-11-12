@@ -19,4 +19,9 @@ const asyncHandler = (fn) => ()=> {};
 
 
 
-# Video Number 9 - Inprogress (User and video model with hooks and JWT | chai aur backend) 
+# Video Number 9 - Inprogress (User and video model with hooks and JWT | chai aur backend)
+
+
+
+# Questions
+1. Difference between JSON and BSON ?
